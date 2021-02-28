@@ -1,0 +1,12 @@
+.country-box {
+    border: 1px solid royalblue;
+    width: 500px;
+    margin: 50px auto;
+}
+.country-box h1, .country-box p, button {
+    margin: 10px;
+}
+.country-box img {
+    height: 100px;
+    margin-top: 20px;
+}
